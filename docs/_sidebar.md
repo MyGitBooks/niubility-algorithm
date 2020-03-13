@@ -1,7 +1,7 @@
 * [:octocat: 首页](/README)
 * :bookmark: 目录
     * 解题
-        * [两数之和](/notes/分析解题/两数之和.md)
+        * [两数之和](http://niubility-algorithm.itstack.org/notes/分析解题/两数之和.md)
     * 面试题库
         * [编写中](#)       
     * 算法思维

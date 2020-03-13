@@ -24,7 +24,7 @@
 
 ## :hocho: 解题
 
-* [`两数之和`]()
+* [`两数之和`](http://niubility-algorithm.itstack.org/notes/分析解题/两数之和.md)
 
 ## :hocho: 面试题库
 
