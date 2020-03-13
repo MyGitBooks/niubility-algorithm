@@ -4,7 +4,7 @@
 
 > **作者：** 小傅哥，Java Developer，[:trophy:CSDN 博客专家](https://bugstack.blog.csdn.net)，[:pencil2:GitChat专栏作者](https://gitbook.cn/gitchat/column/5e5d29ac3fbd2d3f5d05e05f)
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/MyGitBooks/niubility-algorithm"><img src="https://badgen.net/github/stars/MyGitBooks/niubility-algorithm?icon=github&color=4ab8a1"></a>
 <a href="https://itstack.org/_media/qrcode.png?x-oss-process=style/may"><img src="https://badgen.net/github/forks/MyGitBooks/niubility-algorithm?icon=github&color=4ab8a1"></a>
 <a href="http://niubility-algorithm.itstack.org" target="_blank"><img src="https://itstack.org/_media/onlinebook.svg"></a>
