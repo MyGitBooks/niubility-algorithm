@@ -12,9 +12,9 @@
 
 > **作者：** 小傅哥，Java Developer，[:trophy:CSDN 博客专家](https://bugstack.blog.csdn.net)，[:pencil2:GitChat专栏作者](https://gitbook.cn/gitchat/column/5e5d29ac3fbd2d3f5d05e05f)
 
-| ----------------------------------------------- | 解题 | 面试题库| 算法思维 | 数据结构 | ----------------------------------------------- | 
+| ------------------------------------ | 解题 | 面试题库| 算法思维 | 数据结构 | ------------------------------------ | 
 | :---: |  :---: |  :---: |  :---: | :---: |  :---: |
-| | [:hocho:](#hocho-解题) | [:books:](#books-面试题库) | [:key:](#key-算法思维) | [:cookie:](#cookie-数据结构) | [:hocho:](#hocho-解题) | [:books:](#books-面试题库) | [:key:](#key-算法思维) | [:cookie:](#cookie-数据结构) | |  
+| | [:hocho:](#hocho-解题) | [:books:](#books-面试题库) | [:key:](#key-算法思维) | [:cookie:](#cookie-数据结构) | |  
 
 <br/>
 <div align="center">
