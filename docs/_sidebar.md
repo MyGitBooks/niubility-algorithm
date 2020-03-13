@@ -1,4 +1,5 @@
 * [:octocat: 首页](/README)
+* [:bookmark: 目录](/notes/notes.md)
 * [:bookmark: 目录](#)
     * 一、解题
         * [1. 两数之和](/notes/解题/两数之和.md)
