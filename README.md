@@ -7,7 +7,7 @@
 <div align="center">
 <a href="https://github.com/MyGitBooks/niubility-algorithm"><img src="https://badgen.net/github/stars/MyGitBooks/niubility-algorithm?icon=github&color=4ab8a1"></a>
 <a href="https://itstack.org/_media/qrcode.png?x-oss-process=style/may"><img src="https://badgen.net/github/forks/MyGitBooks/niubility-algorithm?icon=github&color=4ab8a1"></a>
-<a href="https://itstack.org" target="_blank"><img src="https://itstack.org/_media/onlinebook.svg"></a>
+<a href="http://niubility-algorithm.itstack.org" target="_blank"><img src="https://itstack.org/_media/onlinebook.svg"></a>
 <a href="https://itstack.org/_media/qrcode.png?x-oss-process=style/may"><img src="https://itstack.org/_media/wxbugstack.svg"></a>
 </div>
 <br/>
@@ -18,7 +18,7 @@
 
 <br/>
 <div align="center">
-    <a href="https://itstack.org" style="text-decoration:none"><img src="https://itstack.org/_media/tree.png" width="128px"></a>
+    <a href="https://niubility-algorithm.itstack.org" style="text-decoration:none"><img src="https://niubility-algorithm.itstack.org/_media/tree.png" width="128px"></a>
 </div>
 <br/>  
 
