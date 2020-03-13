@@ -1,17 +1,15 @@
-# 《Drools · 规则引擎》
+# 《野路子搞算法》| 沉淀、分享、成长，让自己和他人都能有所收获！
 
 [![stars](https://badgen.net/github/stars/MyGitBooks/itstack.github.io?icon=github&color=4ab8a1)](https://github.com/MyGitBooks/itstack.github.io) [![forks](https://badgen.net/github/forks/MyGitBooks/itstack.github.io?icon=github&color=4ab8a1)](https://github.com/MyGitBooks/itstack.github.io) [<img src="https://itstack.org/_media/wxbugstack.svg">](https://itstack.org/_media/qrcode.png?x-oss-process=style/may)
 
-> 本文档是作者小傅哥多年从事一线互联网```Java```开发的学习历程技术汇总，旨在为大家提供一个较清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本文能为您提供帮助，请给予支持(关注、点赞、分享)！
+> 野路子搞算法，本文档是作者小傅哥通过从```leetcode``` ```剑指offer``` ```编程之美``` 等资料中收集算法题目并加以逻辑分析和编码搞定题目，最终编写资料到本文档中，为大家提供在算法领域的帮助。如果本文能为您提供帮助，请给予支持(关注、点赞、分享)！
 
-> 为 Java 高级编程以及技能拓展打造的一个博客站点 [:memo: bugstack虫洞栈](https://bugstack.cn)
+> **作者：** 小傅哥，Java Developer，[:trophy:CSDN 博客专家](https://bugstack.blog.csdn.net)，[:pencil2:GitChat专栏作者](https://gitbook.cn/gitchat/column/5e5d29ac3fbd2d3f5d05e05f)
 
 **如何支持：**
 - 关注公众号 [bugstack虫洞栈](https://itstack.org/_media/qrcode.png?x-oss-process=style/may)
 - 点击右上角Star :star: 给予关注
 - 分享给您身边更多的小伙伴
-
-> **作者：** 小傅哥，Java Developer，[CSDN 博客专家](https://bugstack.blog.csdn.net)
 
 ##  转载分享
 
@@ -50,10 +48,4 @@
 </a> 
 <a href="https://github.com/g10guang">
     <img src="https://avatars1.githubusercontent.com/u/15908832?s=180&v=4" style="border-radius:5px" width="50px">
-</a>
-<a href="https://github.com/g10guang">
-    <img src="https://avatars2.githubusercontent.com/u/24491006?s=460&v=4" style="border-radius:5px" width="50px">
-</a> 
-<a href="https://github.com/g10guang">
-    <img src="https://avatars1.githubusercontent.com/u/57205940?s=180&v=4" style="border-radius:5px" width="50px">
 </a>
