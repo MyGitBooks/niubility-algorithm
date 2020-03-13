@@ -4,6 +4,9 @@ import com.alibaba.fastjson.JSON;
 import org.itstack.code.leetcode.Solution;
 import org.junit.Test;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 public class ApiTest {
 
     private int[] nums = {2, 7, 11, 15};
@@ -56,5 +59,12 @@ public class ApiTest {
             sum = sum * 2;
         }
     }
+
+    @Test
+    public void test(){
+        SimpleDateFormat f = new SimpleDateFormat("yyyyMMdd");
+        System.out.println(f.format(new Date()));
+    }
+
 
 }
