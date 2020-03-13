@@ -1,10 +1,6 @@
 ##  《野路子搞算法》| 沉淀、分享、成长，让自己和他人都能有所收获！
 
-> 《野路子搞算法》，本文档是作者小傅哥通过从```leetcode``` ```剑指offer``` ```编程之美``` 等资料中收集算法题目并加以逻辑分析和编码搞定题目，最终编写资料到本文档中，为大家提供在算法领域的帮助。如果本文能为您提供帮助，请给予支持(关注、点赞、分享)！
-
-> **作者：** 小傅哥，Java Developer，[:trophy:CSDN 博客专家](https://bugstack.blog.csdn.net)，[:pencil2:GitChat专栏作者](https://gitbook.cn/gitchat/column/5e5d29ac3fbd2d3f5d05e05f)
-
-<div align="left">
+<div align="center">
 <a href="https://github.com/MyGitBooks/niubility-algorithm"><img src="https://badgen.net/github/stars/MyGitBooks/niubility-algorithm?icon=github&color=4ab8a1"></a>
 <a href="https://itstack.org/_media/qrcode.png?x-oss-process=style/may"><img src="https://badgen.net/github/forks/MyGitBooks/niubility-algorithm?icon=github&color=4ab8a1"></a>
 <a href="http://niubility-algorithm.itstack.org" target="_blank"><img src="https://itstack.org/_media/onlinebook.svg"></a>
@@ -12,9 +8,17 @@
 </div>
 <br/>
 
+> 《野路子搞算法》，本文档是作者小傅哥通过从```leetcode``` ```剑指offer``` ```编程之美``` 等资料中收集算法题目并加以逻辑分析和编码搞定题目，最终编写资料到本文档中，为大家提供在算法领域的帮助。如果本文能为您提供帮助，请给予支持(关注、点赞、分享)！
+
+> **作者：** 小傅哥，Java Developer，[:trophy:CSDN 博客专家](https://bugstack.blog.csdn.net)，[:pencil2:GitChat专栏作者](https://gitbook.cn/gitchat/column/5e5d29ac3fbd2d3f5d05e05f)
+
+<div align="center">
+
 | 解题 | 面试题库| 算法思维 | 数据结构 | 
 | :---: |  :---: |  :---: |  :---: |
 | [:hocho:](#hocho-解题) | [:books:](#books-面试题库) | [:key:](#key-算法思维) | [:cookie:](#cookie-数据结构) | 
+
+</div>
 
 <br/>
 <div align="center">
