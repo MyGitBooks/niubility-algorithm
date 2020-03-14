@@ -11,6 +11,7 @@
     <modules>
         <module>itstack-code-leetcode-0001</module>
         <module>itstack-code-leetcode-0002</module>
+        <module>itstack-code-leetcode-0003</module>
     </modules>
 
     <dependencies>
