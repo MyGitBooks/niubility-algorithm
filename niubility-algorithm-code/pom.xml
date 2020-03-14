@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>itstack-code-leetcode-0001</module>
+        <module>itstack-code-leetcode-0002</module>
     </modules>
 
     <dependencies>
