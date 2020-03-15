@@ -11,25 +11,41 @@ import org.junit.Test;
 public class ApiTest {
 
     @Test
-    public void test_lengthOfLongestSubstring() {
+    public void test_lengthOfLongestSubstring_1() {
 
-        System.out.println("预期结果3 " + new Solution().lengthOfLongestSubstring("abcabcbb"));
-        System.out.println("预期结果2 " + new Solution().lengthOfLongestSubstring("abba"));
-        System.out.println("预期结果3 " + new Solution().lengthOfLongestSubstring("pwwkew"));
-        System.out.println("预期结果2 " + new Solution().lengthOfLongestSubstring("au"));
-        System.out.println("预期结果6 " + new Solution().lengthOfLongestSubstring("bbtablud"));
+        System.out.println("预期结果3 " + new Solution().lengthOfLongestSubstring_1("abcabcbb"));
+        System.out.println("预期结果2 " + new Solution().lengthOfLongestSubstring_1("abba"));
+        System.out.println("预期结果3 " + new Solution().lengthOfLongestSubstring_1("pwwkew"));
+        System.out.println("预期结果2 " + new Solution().lengthOfLongestSubstring_1("au"));
+        System.out.println("预期结果5 " + new Solution().lengthOfLongestSubstring_1("nfpdmpi"));
 
     }
 
     @Test
-    public void test_lengthOfLongestSubstring_error() {
+    public void test_lengthOfLongestSubstring_2() {
+        System.out.println("预期结果3 " + new Solution().lengthOfLongestSubstring_2("abcabcbb"));
+        System.out.println("预期结果2 " + new Solution().lengthOfLongestSubstring_2("abba"));
+        System.out.println("预期结果3 " + new Solution().lengthOfLongestSubstring_2("pwwkew"));
+        System.out.println("预期结果2 " + new Solution().lengthOfLongestSubstring_2("au"));
+        System.out.println("预期结果5 " + new Solution().lengthOfLongestSubstring_2("nfpdmpi"));
+    }
 
-        System.out.println("预期结果3 " + new Solution().lengthOfLongestSubstring1("abcabcbb"));
-        System.out.println("预期结果2 " + new Solution().lengthOfLongestSubstring1("abba"));
-        System.out.println("预期结果3 " + new Solution().lengthOfLongestSubstring1("pwwkew"));
-        System.out.println("预期结果2 " + new Solution().lengthOfLongestSubstring1("au"));
-        System.out.println("预期结果5 " + new Solution().lengthOfLongestSubstring1("nfpdmpi"));
+    @Test
+    public void test_lengthOfLongestSubstring_4() {
+        System.out.println("预期结果3 " + new Solution().lengthOfLongestSubstring_4("abcabcbb"));
+        System.out.println("预期结果2 " + new Solution().lengthOfLongestSubstring_4("abba"));
+        System.out.println("预期结果3 " + new Solution().lengthOfLongestSubstring_4("pwwkew"));
+        System.out.println("预期结果2 " + new Solution().lengthOfLongestSubstring_4("au"));
+        System.out.println("预期结果5 " + new Solution().lengthOfLongestSubstring_4("nfpdmpi"));
+    }
 
+    @Test
+    public void test_lengthOfLongestSubstring_5() {
+        System.out.println("预期结果3 " + new Solution().lengthOfLongestSubstring_5("abcabcbb"));
+        System.out.println("预期结果2 " + new Solution().lengthOfLongestSubstring_5("abba"));
+        System.out.println("预期结果3 " + new Solution().lengthOfLongestSubstring_5("pwwkew"));
+        System.out.println("预期结果2 " + new Solution().lengthOfLongestSubstring_5("au"));
+        System.out.println("预期结果5 " + new Solution().lengthOfLongestSubstring_5("nfpdmpi"));
     }
 
 }
